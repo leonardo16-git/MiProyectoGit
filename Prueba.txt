@@ -1,4 +1,5 @@
 pruebaexamen
 a
 a
-Bienvenido a mi proyecto GitHub.
+Bienvenido al proyecto de GitHub.
+
